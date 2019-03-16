@@ -64,7 +64,7 @@ Configuration... done.
 ```
 
 ## FauxAPI - System Menu
-![alt text](README-menu-screenshot-01.png "menu-screenshot")
+![alt text](README/README-menu-screenshot-01.png "menu-screenshot")
 
 ## FauxAPI - Package Manager
-![alt text](README-menu-screenshot-02.png "packages-screenshot")
+![alt text](README/README-menu-screenshot-02.png "packages-screenshot")
